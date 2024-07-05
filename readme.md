@@ -36,8 +36,7 @@ Clone the repository and install dependencies:
 
 <pre>git clone https://github.com/NAWAZ-SRM/image-style-transfer.git</pre>
 
-<pre>cd enhanced-nst</pre>
-
+<pre>cd cloned_folder_name</pre>
 <pre>pip install -r requirements.txt</pre>
 
 
