@@ -1,4 +1,4 @@
-p# 🎨 Enhanced Neural Style Transfer using VGG‑19 and Gram Matrix
+## 🎨 Enhanced Neural Style Transfer using VGG‑19 and Gram Matrix
 
 > A deep learning‑based system for artistic style transfer combining the structural patterns of one image with the textures of another — delivering photo‑realistic stylizations with advanced performance benchmarking.
 
