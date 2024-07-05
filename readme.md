@@ -34,7 +34,7 @@ The project has been **published in FMDB Transactions on Sustainable Computing S
 
 Clone the repository and install dependencies:
 
-<pre>git clone https://github.com/your-username/enhanced-nst.git</pre>
+<pre>git clone https://github.com/NAWAZ-SRM/image-style-transfer.git</pre>
 
 <pre>cd enhanced-nst</pre>
 
